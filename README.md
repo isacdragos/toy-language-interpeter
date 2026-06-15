@@ -1,6 +1,6 @@
-# MAPTest2
+# Toy Language Interpreter
 
-MAPTest2 is a Java/Maven project that implements a small toy-language interpreter. It was built for MAP coursework and includes both a console menu and a JavaFX GUI for selecting and stepping through sample programs.
+This is a Java/Maven project that implements a small toy-language interpreter. It includes both a console menu and a JavaFX GUI for selecting and stepping through sample programs.
 
 The interpreter supports typed variables, arithmetic and logical expressions, conditionals, loops, file reads, heap allocation, heap reads/writes, forked program states, and barrier synchronization.
 
